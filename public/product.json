@@ -1,0 +1,257 @@
+[
+    {
+        "product_id": "GAD001",
+        "product_title": "Wireless Bluetooth Earbuds",
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2022/11/wirelessearbuds-2048px-8831.jpg",
+        "category": "Audio",
+        "price": 51.99,
+        "description": "High-quality wireless Bluetooth earbuds with noise-cancellation and deep bass.",
+        "Specification": [
+            "Bluetooth 5.2",
+            "10-hour battery life",
+            "Water-resistant (IPX4)",
+            "Noise-cancellation",
+            "Compatible with iOS and Android"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "GAD002",
+        "product_title": "Smart Fitness Watch",
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2023/11/fitness-tracker-2048px-5344.jpg",
+        "category": "Wearable",
+        "price": 79.99,
+        "description": "Track your health and fitness goals with this smart watch featuring heart rate monitor and GPS.",
+        "Specification": [
+            "Heart rate monitoring",
+            "Built-in GPS",
+            "Sleep tracking",
+            "Waterproof (5 ATM)",
+            "Compatible with iOS and Android"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "GAD003",
+        "product_title": "4K Ultra HD Action Camera",
+        "product_image": "https://smartdeal.com.bd/public/uploads/all/JJAAhNdvxnYVuBSVbxqQ7w6Z4dmGX8RQdW5G3GpA.webp",
+        "category": "Cameras",
+        "price": 129.99,
+        "description": "Capture high-quality photos and videos with this 4K Ultra HD action camera. Perfect for adventure.",
+        "Specification": [
+            "4K video recording",
+            "16MP photos",
+            "Waterproof up to 30m",
+            "WiFi connectivity",
+            "Wide-angle lens"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "GAD004",
+        "product_title": "Portable Power Bank 10000mAh",
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2023/08/powerbanks-2048px-1158.jpg",
+        "category": "Accessories",
+        "price": 54.99,
+        "description": "Compact and powerful 10000mAh portable power bank to keep your devices charged on the go.",
+        "Specification": [
+            "10000mAh battery capacity",
+            "Fast charging",
+            "Dual USB ports",
+            "Compact design",
+            "LED battery indicator"
+        ],
+        "availability": false,
+        "rating": 4.2
+    },
+    {
+        "product_id": "GAD005",
+        "product_title": "Smart Home Speaker",
+        "product_image": "https://www.cnet.com/a/img/resize/626d94e619325c8a7e0b00863794b3e81835ea69/hub/2017/12/14/35cd1451-6334-408c-b21e-8f2f5811bf02/google-home-max-5.jpg?auto=webp&fit=crop&height=675&width=1200",
+        "category": "Smart Home",
+        "price": 99.99,
+        "description": "Voice-controlled smart home speaker with built-in AI assistant for hands-free convenience.",
+        "Specification": [
+            "Voice control",
+            "Built-in AI assistant",
+            "WiFi and Bluetooth connectivity",
+            "360-degree sound",
+            "Compatible with smart home devices"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "GAD006",
+        "product_title": "Smart LED Light Bulb",
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2024/02/smartledlightbulbs-2048px-07793.jpg",
+        "category": "Smart Home",
+        "price": 59.99,
+        "description": "Adjustable, voice-controlled smart LED bulb with millions of color options.",
+        "Specification": [
+            "16 million colors",
+            "Voice control",
+            "App control",
+            "Energy-saving",
+            "Compatible with smart home systems"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "GAD007",
+        "product_title": "Noise Cancelling Headphones",
+        "product_image": "https://cdn.thewirecutter.com/wp-content/media/2023/09/noise-cancelling-headphone-2048px-0876.jpg",
+        "category": "Audio",
+        "price": 149.99,
+        "description": "Over-ear headphones with active noise cancellation for immersive sound experience.",
+        "Specification": [
+            "Active noise cancellation",
+            "20-hour battery life",
+            "Bluetooth 5.0",
+            "Built-in microphone",
+            "Lightweight design"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": "GAD008",
+        "product_title": "Compact Drone with Camera",
+        "product_image": "https://i.ytimg.com/vi/1nCvgN62prQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBvJZHS15vEfezQjZJlMk2yFYG7bg",
+        "category": "Cameras",
+        "price": 199.99,
+        "description": "Capture stunning aerial footage with this easy-to-fly compact drone.",
+        "Specification": [
+            "HD camera",
+            "GPS tracking",
+            "30-minute flight time",
+            "Auto-return feature",
+            "Compact foldable design"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "GAD009",
+        "product_title": "Wireless Charging Pad",
+        "product_image": "https://www.cnet.com/a/img/resize/8dfd582b861be518dcb968d1f1b6de01ef114961/hub/2023/02/28/9da2e9c7-d07d-45cb-89d1-18c7013249e5/anker-315-wireless-charger.png?auto=webp&fit=crop&height=900&width=1200",
+        "category": "Accessories",
+        "price": 69.99,
+        "description": "Fast wireless charging pad compatible with multiple devices.",
+        "Specification": [
+            "Fast charging",
+            "Non-slip surface",
+            "Overheat protection",
+            "LED indicator",
+            "Compatible with iOS and Android devices"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "product_id": "GAD010",
+        "product_title": "VR Headset with Motion Tracking",
+        "product_image": "https://img.freepik.com/premium-photo/immersive-3d-environments-haptic-feedback-suits-realistic-motion-tracking-create-nextgen-gaming-experiences_875722-1409.jpg",
+        "category": "Wearable",
+        "price": 299.99,
+        "description": "Immersive VR headset with motion tracking and a wide field of view for a realistic experience.",
+        "Specification": [
+            "1080p display",
+            "Motion tracking sensors",
+            "120-degree field of view",
+            "Lightweight design",
+            "Compatible with PC and mobile"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "GAD011",
+        "product_title": "Smart Thermostat",
+        "product_image": "https://cdn.mos.cms.futurecdn.net/Ek2kyrb7BqbAZXepGvvVYL.jpg",
+        "category": "Smart Home",
+        "price": 149.99,
+        "description": "Energy-efficient smart thermostat that learns your schedule and optimizes temperature settings.",
+        "Specification": [
+            "Auto-scheduling",
+            "Remote control via app",
+            "Energy-saving features",
+            "Voice control compatibility",
+            "Easy installation"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "GAD012",
+        "product_title": "Wireless Keyboard and Mouse Combo",
+        "product_image": "https://primecomputer.com.bd/wp-content/uploads/2024/01/Screenshot_7-1.png",
+        "category": "Accessories",
+        "price": 79.99,
+        "description": "Ergonomic wireless keyboard and mouse set with long battery life and quiet keys.",
+        "Specification": [
+            "Wireless 2.4 GHz",
+            "Quiet keys",
+            "Ergonomic design",
+            "Up to 12 months battery life",
+            "Plug and play"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "GAD013",
+        "product_title": "Compact Digital Camera",
+        "product_image": "https://www.dpreview.com/files/p/articles/7169536504/canon_g7xiii.jpeg",
+        "category": "Cameras",
+        "price": 249.99,
+        "description": "Compact digital camera with 20MP resolution and 10x optical zoom for clear and detailed shots.",
+        "Specification": [
+            "20MP resolution",
+            "10x optical zoom",
+            "HD video recording",
+            "Compact size",
+            "Image stabilization"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "product_id": "GAD014",
+        "product_title": "Smart Plug",
+        "product_image": "https://shop-cdn.aidot.com/media/wysiwyg1/smart-plug_1702031432.jpg",
+        "category": "Smart Home",
+        "price": 55.99,
+        "description": "Smart plug that allows you to control any device remotely with an app or voice assistant.",
+        "Specification": [
+            "Remote control via app",
+            "Voice assistant compatible",
+            "Energy monitoring",
+            "Compact design",
+            "Easy setup"
+        ],
+        "availability": true,
+        "rating": 4.2
+    },
+    {
+        "product_id": "GAD015",
+        "product_title": "Gaming Headset with Surround Sound",
+        "product_image": "https://www.pchouse.com.bd/image/cache/catalog/11A/085/Optimized-razer-kraken-v3-x-gaming-headset-1.jpg-1000x1000.jpg-600x500h.png.webp",
+        "category": "Audio",
+        "price": 89.99,
+        "description": "Over-ear gaming headset with surround sound and noise-cancelling microphone.",
+        "Specification": [
+            "7.1 surround sound",
+            "Noise-cancelling microphone",
+            "LED lighting",
+            "Memory foam ear cushions",
+            "Compatible with PC, console, and mobile"
+        ],
+        "availability": true,
+        "rating": 4.6
+    }
+]
